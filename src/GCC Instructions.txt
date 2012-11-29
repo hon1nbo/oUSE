@@ -1,0 +1,7 @@
+Run this to compile the sample:
+
+g++ main.cpp -o TestStemmer
+
+To run the sample:
+
+./TestStemmer
