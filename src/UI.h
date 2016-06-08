@@ -1,7 +1,7 @@
 /********************************************************
 * File: UI.h											*
 * Authors:												*
-*	James (Jimmy) Hartnett								*
+*	Jim Hartnett								*
 *	Collin Dobmeyer										*
 *	Andrew Socha										*
 * IP: Search Engine										*

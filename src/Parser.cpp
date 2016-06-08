@@ -1,7 +1,7 @@
 /********************************************************
 * File: Parser.cpp										*
 * Authors:												*
-*	James (Jimmy) Hartnett								*
+*	Jim Hartnett								*
 *	Collin Dobmeyer										*
 *	Andrew Socha										*
 * IP: Search Engine										*
